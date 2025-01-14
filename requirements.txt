@@ -1,0 +1,4 @@
+- Python 3.8 or higher  
+- News API key  
+- Hugging Face API key  
+- Dependencies (listed in `requirements.txt`)
